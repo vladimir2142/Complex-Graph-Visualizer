@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Визуализатор графа" Height="450" Width="800">
+    <Grid MouseDown="Grid_MouseDown">
+        <Canvas Name="Can" Background="Lavender">
+            <CheckBox x:Name="checkBox1"  IsChecked="False" Height="20" Content="Ориентировано" Margin="125,30,0,0"/>
+            <Grid>
+                <StackPanel Orientation="Horizontal">
+                    <Button Name="per" Click="buttonPrintPoint_Click" Content="Добавление точек" />
+                    <Button Name="Selection" Click="Point_Conection_select" Content="Соеденить точки" />
+                    <Button Click="Button_Delete" Content="Удалить вершину"/>
+                    <Button Click="Save" Content="Экспортировать в png"/>
+                   
+                </StackPanel>
+            </Grid>
+            <DataGrid Name="table" AutoGenerateColumns="False" HorizontalGridLinesBrush="DarkGray"
+                      FontWeight="Medium" Foreground="#FF081A21" RowBackground="#FFDEF0F7" AlternatingRowBackground="#FFDEF0F7" Padding="0" Margin="0,30,0,0">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="№" Binding="{Binding First}" Width="40" />
+                    <DataGridHyperlinkColumn Header="X" Binding="{Binding Second}" Width="40" />
+                    <DataGridTextColumn Header="Y" Binding="{Binding Third}" Width="40" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Canvas>
+    </Grid>
+    
+</Window>

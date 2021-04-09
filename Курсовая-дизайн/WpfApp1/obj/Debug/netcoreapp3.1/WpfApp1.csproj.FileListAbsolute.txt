@@ -1,0 +1,61 @@
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\Styles.baml
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\hebgehog\Desktop\Курсовая\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\Styles.baml
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\leged\OneDrive\Рабочий стол\Курсовая-дизайн\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
